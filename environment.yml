@@ -1,0 +1,15 @@
+name: wikisentiviewer-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - folium
+  - ipywidgets
+  - appmode
+  - pip:
+    - boto
+    - requests
