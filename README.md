@@ -29,10 +29,9 @@ For ANEW we take valency into account too.
 1. Click the Binder badge above or this [Binder link](https://notebooks.gesis.org/binder/v2/gh/lzl257/WikiSenti/master?urlpath=%2Fapps%2FWikiSentiFlow.ipynb)
 to run the notebooks. (It may takes around 10 mins to prepare the environment)
 
-2. Then open Appmode to ignore the codes by clicking "Appmode" in toolbar (recommended for general user). 
-Alternatively, you can choose "Run All" inside Cell menu without entering appmode (recommended for programmer).
+2. The widget will start automatically and now you can operate with it. If you want to check the details of code, please click the "Edit App" button in toolbar
 
-3. If you want to switch to the next notebook, just click the link below the current app.
+3. If you want to switch to the next notebook, just click the link below the current widget.
 
 ## Run It Locally
 
