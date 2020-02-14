@@ -1,4 +1,4 @@
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/lzl257/WikiSenti/master?filepath=WikiSentiFlow.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/lzl257/WikiSenti/master?urlpath=%2Fapps%2FWikiSentiFlow.ipynb)
 
 # WikiSenti
 
@@ -26,7 +26,7 @@ For ANEW we take valency into account too.
 
 ## Getting Started
 
-1. Click the Binder badge above or this [Binder link](https://notebooks.gesis.org/binder/v2/gh/lzl257/WikiSenti/master?filepath=WikiSentiFlow.ipynb)
+1. Click the Binder badge above or this [Binder link](https://notebooks.gesis.org/binder/v2/gh/lzl257/WikiSenti/master?urlpath=%2Fapps%2FWikiSentiFlow.ipynb)
 to run the notebooks. (It may takes around 10 mins to prepare the environment)
 
 2. Then open Appmode to ignore the codes by clicking "Appmode" in toolbar (recommended for general user). 
